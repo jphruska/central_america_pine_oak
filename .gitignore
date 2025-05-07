@@ -2,3 +2,5 @@
 ./setophaga/genotyping/.Rhistory
 ./geothlypis/genotyping/.DS_Store
 ./geothlypis/genotyping/.Rhistory
+*.DS_Store
+*.Rhistory
