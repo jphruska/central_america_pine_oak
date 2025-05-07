@@ -1,2 +1,2 @@
 # central_america_pine_oak
-population differentiation and demography in assemblage as a function of ecological specificity 
+population differentiation and demography in an assemblage as a function of ecological specificity 
