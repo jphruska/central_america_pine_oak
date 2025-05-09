@@ -1,0 +1,6 @@
+Geothlypis_poliocephala_KU_25093_AHUA	1
+Geothlypis_poliocephala_KU_33403_NSG	2
+Geothlypis_poliocephala_KU_33414_NSG	3
+Geothlypis_poliocephala_KU_33542_ALA	4
+Geothlypis_poliocephala_KU_9041_CHAL	5
+Troglodytes_aedon_KU_33409_NSG	6
