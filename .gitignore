@@ -4,3 +4,5 @@
 ./geothlypis/genotyping/.Rhistory
 *.DS_Store
 *.Rhistory
+./geothlypis/PCA/*.vcf
+
